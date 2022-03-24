@@ -1,0 +1,7 @@
+testmodule.firstpageDisplay:
+  path: '/testmodule/display'
+  defaults:
+    _controller: '\Drupal\testmodule\Controller\TestmoduleController::getFirstpageDisplay'
+    _title: 'My first Test page'
+  requirements:
+    _permission: 'access content'
