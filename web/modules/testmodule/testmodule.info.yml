@@ -1,6 +1,6 @@
 name: TestModule
 type: module
-description: 'Test my drupal stuffs here.'
+description: 'Test my drupal stuffs.'
 core_version_requirement: ^8.8 || ^9
 
 
